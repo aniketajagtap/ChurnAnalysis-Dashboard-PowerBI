@@ -1,4 +1,4 @@
-# DashboardChurnAnalysis_PowerBI
+# ChurnAnalysis-Dashboard-PowerBI
 A Power BI dashboard for telecom churn analysis, featuring customer and churner summaries, detailed profiles, and an interactive Q&amp;A section.
 
 Customer churn is a critical metric for any subscription-based business model, particularly in the telecom industry, where competition is fierce, and customer retention is paramount. Churn can be driven by various factors, including poor customer service, better offers from competitors, dissatisfaction with the product or service, or a mismatch between customer expectations and the service delivered.
